@@ -1,13 +1,11 @@
-import React from 'react';
-import Wrapper from "./wrapper";
-import './App.css';
-
+import React  from 'react';
+import Dialog from "./components/Dialog";
 
 
 const App = () => {
   return (
     <div className="App">
-      <Wrapper/>
+        <Dialog/>
     </div>
   );
 }
