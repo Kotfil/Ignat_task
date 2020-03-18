@@ -1,11 +1,10 @@
-
-
 .nameFil  {
-    font-family: 'League Script', cursive;
-    font-size: small;
-    margin: 100px auto;
-    max-width: 500px;
-    font-size: 30px
+    font-family:  "Roboto Light", Verdana;
+    font-size: xx-large;
+    margin: 10px auto;
+    max-width: 300px;
+    font-size: 33px;
+    height: auto;
 }
 
 

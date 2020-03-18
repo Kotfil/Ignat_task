@@ -1,0 +1,64 @@
+.wrapper {
+    border-radius: 10px;
+    height: auto;
+    margin-top: 55px;
+    max-width: 400px;
+    padding: 20px;
+    position: relative;
+    background-color: white;
+    color: black;
+    word-wrap: break-word;
+
+}
+.fil {
+    color: #4388b9;
+    text-align: left;
+    background-color: white;
+    font-family: "Calibri Light";
+    font-size: 22px;
+    margin-bottom: 2px;
+}
+.next {
+    color: black;
+    background-color: white;
+    font-family: "Calibri Light";
+    font-size: 22px;
+    height: auto;
+    padding: 20px;
+
+}
+
+
+
+.avaTel img {
+    border-radius: 70px;
+    width: 60px;
+    height: 60px;
+    margin-top: 79px;
+    margin-left: 400px;
+
+}
+
+.textTel {
+    /*display: flex;*/
+    /*align-items: center;*/
+    /*border-radius: 10px;*/
+    /*height: auto;*/
+    /*max-width: 300px;*/
+    /*padding: 20px;*/
+    /*position: relative;*/
+    /*background-color: white;*/
+    /*color: black;*/
+    /*word-wrap: break-word;*/
+}
+.triangle {
+    margin-b: 150px ;
+    border-radius: 50px;
+    background-color: white;
+    color: black;
+    font-size: 22px;
+    height: auto;
+    padding: 20px;
+
+}
+
