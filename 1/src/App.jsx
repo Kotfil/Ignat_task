@@ -1,11 +1,12 @@
 import React  from 'react';
-import Dialog from "./components/Dialog";
+import NamePage from "./components/NamePage.jsx";
 
 
 const App = () => {
   return (
     <div className="App">
-        <Dialog/>
+
+        <NamePage />
     </div>
   );
 }
