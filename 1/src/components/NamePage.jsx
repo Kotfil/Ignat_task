@@ -4,7 +4,7 @@ import s from './NamePage.module.css'
 const NamePage = () => {
      return (
             <div className={s.nameFil}>
-                <p>Котенко Филипп</p>
+                <p>Котенко Филипп Сергеевич</p>
             </div>
         );
     }
