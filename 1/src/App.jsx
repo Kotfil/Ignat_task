@@ -1,14 +1,18 @@
-import React  from 'react';
+import React from 'react';
 import NamePage from "./components/NamePage.jsx";
+import DialogPage from "./components/DialogPage.jsx";
+import Triangle from "./components/Triangle.jsx";
 
 
 const App = () => {
-  return (
-    <div className="App">
+    return (
+        <div className="App">
+            <NamePage/>
+            <DialogPage/>
+            <Triangle/>
 
-        <NamePage />
-    </div>
-  );
+        </div>
+    );
 }
 
 export default App;
