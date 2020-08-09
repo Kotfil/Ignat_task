@@ -9,7 +9,7 @@ const NamePage = (props) => {
 
                 <p>Котенко Филипп Сергеевич</p>
                 <div>
-
+                    <input about={'22'}/>
                 </div>
             </div>
         );
